@@ -1,0 +1,21 @@
+p{
+    
+    color:white;
+    background-color: darkblue;
+    font-family: tahoma;
+    padding: 30px;
+    font-size: 30px;
+}
+#pause{
+    background-color: rgb(8, 49, 136);
+    padding: 20px;
+    font-family: Tahoma;
+    color:white;
+    font-size: large;
+    margin-top:10px;
+    
+    font-weight: bolder;
+    
+    
+    
+}
